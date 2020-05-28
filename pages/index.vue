@@ -5,7 +5,7 @@
       <h1 class="title">{{ $myApp.appName }}</h1>
       <h2 class="subtitle">{{ $myApp.appDesc }}</h2>
       <div class="links">
-        <nuxt-link to="/accounts/signin" class="button--green">Login</nuxt-link>
+        <a href="/accounts/signin" class="button--green">Login</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
       </div>
     </div>
