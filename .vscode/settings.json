@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": ["./citadel-iam", "./iam-webui", "./monolith"],
+  "vetur.validation.template": false,
+  "vetur.format.defaultFormatter.html": "prettier"
+}
