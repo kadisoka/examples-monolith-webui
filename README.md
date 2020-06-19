@@ -1,6 +1,6 @@
 # monolith
 
-> Citadel monolith example
+> Kadisoka monolith example
 
 ## Build Setup
 

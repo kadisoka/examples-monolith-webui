@@ -10,7 +10,7 @@
         >
         <a v-else href="/accounts/signin" class="button--green">Sign in</a>
         <a
-          href="https://github.com/rez-go/citadel"
+          href="https://github.com/kadisoka"
           target="_blank"
           class="button--grey"
           >GitHub</a
