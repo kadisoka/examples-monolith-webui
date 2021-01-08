@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/dotenv": "^1.4.0",
-    "@nuxtjs/pwa": "^3.0.0-0",
+    "@nuxtjs/pwa": "^3.3.4",
     "nuxt": "^2.13.0",
     "vuex-persist": "^2.2.0"
   },
